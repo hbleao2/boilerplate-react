@@ -1,9 +1,9 @@
 {
-  "name": "softvaro-boilerplate",
+  "name": "boilerplate-react",
   "version": "1.0.0",
-  "description": "boilerplate to smiles project",
+  "description": "boilerplate to react project",
   "main": "index.js",
-  "author": "Softvaro",
+  "author": "Henrique Leao",
   "license": "ISC",
   "scripts": {
     "dev": "webpack-dev-server --config webpack.dev.js",
